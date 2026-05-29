@@ -128,4 +128,6 @@ return 0; 명령어는 프로그램이 성공적으로 끝났다는 신호를 OS
 - 제어 문자란?
   - 문자는 아니지만, 출력 방식에 영향을 주는 문자
   - 일반 문자와 구분하기 위해 백슬래시(\, 키보드에서 ￦)와 함께 사용
-[](./Image/제어문자.png)
+
+
+![](https://github.com/gunobo/BSSM_C_class/blob/main/Image/%EC%A0%9C%EC%96%B4%EB%AC%B8%EC%9E%90.png)
